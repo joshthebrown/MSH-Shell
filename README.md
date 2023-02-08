@@ -1,8 +1,7 @@
 
 #### Header
 
-* Name: Edgar Navarro, Josh Brown
-* Username: cssc0831 ,cssc0805
+* Name: Josh Brown, Edgar Navarro
 * Class Info: CS 480
 * Assigment: Programming Assignment #2
 * Filename: README.md
